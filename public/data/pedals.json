@@ -12992,6 +12992,13 @@
 		"Image": "proco-lil-rat.png"
 	},
 	{
+		"Brand": "Pro Co",
+		"Name": "Turbo Rat",
+		"Width": 3.5,
+		"Height": 4,
+		"Image": "proco-turbo-rat.png"
+	},
+	{
 		"Brand": "Providence",
 		"Name": "Chrono",
 		"Width": 3.98,
